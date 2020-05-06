@@ -1,0 +1,52 @@
+{
+    "data": {
+        "calibration_set": null,
+        "calibration_set_name": null,
+        "current_tool_version": 0,
+        "globals": {
+            "cakeDryOutletTemp": "30",
+            "cakeWashConductivity": "0",
+            "cakeWashes": "1",
+            "dosingSpeedSetpoint": "5",
+            "millSpeedSetpoint": "10000",
+            "n2Purge": "5",
+            "number": "SYR_006553",
+            "numberOfBoats": "0",
+            "recipeNum": "1",
+            "slurryFeedFilterPres": "25",
+            "slurryFeedTimeout": "30",
+            "slurryWeight": "240",
+            "tool": "drying and individualization"
+        },
+        "input_material_mass_grams": null,
+        "max_syb_version_number": null,
+        "phu_checks": [],
+        "recipe_formatted": {
+            "Oberlin": {
+                "cakeDryOutletTemp": "30",
+                "cakeWashConductivity": "0",
+                "cakeWashes": "1",
+                "n2Purge": "5",
+                "slurryFeedFilterPres": "25",
+                "slurryFeedTimeout": "30"
+            },
+            "Pin Mill": {
+                "dosingSpeedSetpoint": "5",
+                "millSpeedSetpoint": "10000",
+                "recipeNum": "1"
+            },
+            "System": {
+                "slurryWeight": "240"
+            }
+        },
+        "recipe_tool_version": 0,
+        "steps": [],
+        "syb_checks": [],
+        "syb_id": 45003,
+        "synthesis_batch_id": "SYB-045003",
+        "syr_id": 6553,
+        "title": "Tantive to Eagle DIW Testing_Recipe 3",
+        "tool_setup": "All liquid feed from Tantive Curing Tank (CT1 or CT2)\nInput slurry: DI water only"
+    },
+    "request_id": "c537dd16-dd74-46b3-8788-187841d4f1ec"
+}

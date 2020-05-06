@@ -1,0 +1,1 @@
+# A boring example of using alerts and if statements

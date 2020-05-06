@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    border-color: purple;
+    border-width: 5px;
+    border-style: dashed;
+}
+li {
+    color: green;
+    border: 5px solid purple;
+}
+h4 {
+    color: #0000FF; /*This is blue!*/
+    background: rgb(255, 100, 0);
+}
+h3 {
+    color: rgb(100, 255, 255)
+}
+h2 {
+    color: rgba(0,255,0,0.1);
+}
+body {
+    /* background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3bc3c45f-73c2-4136-86a5-0daaa61cf81b/d2ez2q3-83d53de2-a142-454d-8f2d-a19fc757800b.jpg/v1/fill/w_900,h_900,q_75,strp/red_mahogany_wood_texture_by_sweetsoulsister_d2ez2q3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvM2JjM2M0NWYtNzNjMi00MTM2LTg2YTUtMGRhYWE2MWNmODFiXC9kMmV6MnEzLTgzZDUzZGUyLWExNDItNDU0ZC04ZjJkLWExOWZjNzU3ODAwYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.dGidYjIVzjFIEcjFPcg4PVA36K5pgYj0iE8772rSpnM);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background: pink;
+}

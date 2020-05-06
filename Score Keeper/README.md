@@ -1,0 +1,1 @@
+# Simply styled page that focuses on javascript and event listeners to keep score of a game

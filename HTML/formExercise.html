@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form Exercise</title>
+</head>
+<body>
+    <h1>Register</h1>
+    <form>
+        <p>
+            <label for="firstName">First Name</label>
+            <input id="firstName" type="text" placeholder="John" required>
+            <label for="lastName">Last Name</label>
+            <input id="lastName" type="text" placeholder="Smith" required>
+        </p>
+
+        <p>
+            <label for="male">Male</label>
+            <input name="gender" id="male" type="radio">
+            <label for="female">Female</label>
+            <input name="gender" id="female" type="radio">
+            <label for="other">Other</label>
+            <input name="gender" id="other" type="radio">
+        </p>
+
+        <p>
+            <label for="email">Email:</label>
+            <input id="email" type="email" required>
+            <label for="password">Password</label>
+            <input type="password" required minlength="5" maxlength="10" title="what is do?!?!">
+        </p>
+
+        <p>
+            <label for="birthday">Birthday:</label>
+            <select name="Month">
+                <option>Month</option>
+                <option>January</option>
+                <option>February</option>
+                <option>April</option>
+            </select>
+
+            <select name="Day">
+                <option>Day</option>
+                <option>1</option>
+                <option>19</option>
+            </select>
+
+            <select name="Year">
+                <option>Year</option>
+                <option>1992</option>
+                <option>1993</option>
+            </select>
+        </p>
+
+        <p>
+            <label for="terms">I agree to the terms and conditions</label>
+            <input id="terms" type="checkbox">
+        </p>
+        
+        <input type="submit">
+    </form>
+    
+</body>
+</html>

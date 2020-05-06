@@ -1,0 +1,1 @@
+# This is a more styled image gallery or photo grid.  It has bootstrap CSS with a navbar and jumbotron and thumbnails

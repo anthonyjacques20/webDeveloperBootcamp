@@ -1,0 +1,1 @@
+# A sample webpage to practice using the browser console to use jQuery to select different objects on the page

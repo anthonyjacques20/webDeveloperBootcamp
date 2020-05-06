@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Color Changer</title>
+    <style>
+        .purple {
+            background: purple;
+        }
+    </style>
+</head>
+<body>
+    <button>CLICK ME!</button>
+    <!-- We should really put this script in another document -->
+    <script>
+        var button = document.querySelector("button");
+        var body = document.querySelector("body");
+        button.addEventListener("click",function(){
+            //The commented out logic works just fine but the classList.toggle is more efficient and cool
+            // if (body.style.background == "white"){
+            //     body.style.background = "green";
+            // }
+            // else{
+            //     body.style.background = "white";
+            // }
+            document.body.classList.toggle("purple");
+        })
+    </script>
+</body>
+</html>

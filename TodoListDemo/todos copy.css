@@ -1,0 +1,12 @@
+body {
+    background: orange;
+}
+
+#special {
+    background: yellow;
+}
+
+.baller {
+    background: green;
+    text-decoration: line-through;
+}

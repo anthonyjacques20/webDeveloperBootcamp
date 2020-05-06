@@ -1,0 +1,32 @@
+i.icon {
+	font-size: 2em;
+}
+
+#deleteButton {
+	font-size: 1em;
+}
+
+#fireIcon {
+	margin: -1 -1 -1 -1;
+}
+
+#mainContainer {
+	margin-top: 7.0em;
+	margin-left: 3em;
+}
+.main.container {
+	margin-top: 7.0em;
+}
+
+.three.column.grid {
+	margin-top: 3.0em;
+	margin-left: 3em;
+}
+
+.ui.card{
+	height: 100%;
+}
+
+#deleteForm{
+	display: inline;
+}

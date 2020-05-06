@@ -1,0 +1,18 @@
+{
+    "Oberlin": {
+        "cakeDryOutletTemp": "30",
+        "cakeWashConductivity": "0",
+        "cakeWashes": "1",
+        "n2Purge": "5",
+        "slurryFeedFilterPres": "25",
+        "slurryFeedTimeout": "30"
+    },
+    "Pin Mill": {
+        "dosingSpeedSetpoint": "5",
+        "millSpeedSetpoint": "10000",
+        "recipeNum": "1"
+    },
+    "System": {
+        "slurryWeight": "240"
+    }
+}
